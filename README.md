@@ -20,11 +20,11 @@ In total I used 9 datasets sourced from Zillow and NOAA. Data from Zillow was us
 
 Data from Zillow's Home Value Index (ZHVI) was used. Zillow Home Value Index is a measure of a home's typical value and market changes across a given region and type of housing. By measuring monthly changes in property across different housing types and geographies Zillow is able to capture how the market price changes and not just the changes in the kinds of markets or property types that sell on a month to month basis. The ZHVI dollar amount is representative of the "typical home value for a region" and not the "median home value".
 
-I looked at three different datasets from Zillow that had been smoothed and seasonally adjusted:
+I looked at three different datasets from Zillow that had been smoothed and seasonally adjusted:    
 
-**Bottom Tier Homes**: typical value for homes within the 5th to 35th percentile range for a given region.
-**Middle Tier Homes**: typical value for homes within the 35th to 65th percentile range for a given region.
-**Top Tier Homes**: typical value for homes within the 65th to 95th percentile range for a given region.
+**Bottom Tier Homes**: typical value for homes within the 5th to 35th percentile range for a given region.   
+**Middle Tier Homes**: typical value for homes within the 35th to 65th percentile range for a given region.    
+**Top Tier Homes**: typical value for homes within the 65th to 95th percentile range for a given region.    
 
 #### NOAA 
 
@@ -38,14 +38,15 @@ I used information from hurricane Charley, Dennis, Matthew, Irma, and Michael to
 
 ### Final Dataset 
 
-I used three datasets for the purpose of modeling. The datasets each contained the same 7 columns: 
-AWND: Average daily wind speed (miles per hour)
-WSF2: Fastest 2-minute wind speed (miles per hour)
-SizeRank: Numerical rank of size of cities, ranked 0 through 30,132
-before: Home value six months before the hurricane
-after: Home value six months after the hurricane
-percent: Percent change in home value from six months before hurricane to six months after hurricane
-increase: 1 = increase of 75% of more in home value, 0 = no increase of 75% of more in home value
+I used three datasets for the purpose of modeling. The datasets each contained the same 7 columns:    
+**AWND**: Average daily wind speed (miles per hour)    
+**WSF2**: Fastest 2-minute wind speed (miles per hour)    
+**SizeRank**: Numerical rank of size of cities, ranked 0 through 30,132   
+**before**: Home value six months before the hurricane  
+**after**: Home value six months after the hurricane    
+**percent**: Percent change in home value from six months before hurricane to six months after hurricane    
+**increase**: 1 = increase of 75% of more in home value, 0 = no increase of 75% of more in home value      
+
 I trained the models on data drawn from the bottom tier home value dataset which had 141 entries. I chose this dataset to train our models on because it had the best target variable class imbalance of  68%. I used our dataset containing all home values to test our model which contained 344 entries. I also used a dataset containing just data from hurricane Ian to see how the model would perform on future hurricane data. The hurricane Ian dataset contained 27 entries. 
 
 ## Feature Engineering 
@@ -79,11 +80,11 @@ An XG Boost model was used due to its adaptability and strong prediction perform
 Our final model was an XG Boost model. Since the goal for this project is to help real estate agencies understand how hurricanes impact home value data from a recent hurricane was used to test our model. Using data from hurricane Ian our model performed with 78% accuracy and an F1-score of 0.625. 
 
 ## Recommendations 
-I recommend further looking into Size Rank and housing prices as a predictor, regardless of if a hurricane happened because it is a strong indicator of home value. Hurricane features do slightly improve model performance and should also be considered. 
+-  I recommend further looking into Size Rank and housing prices as a predictor, regardless of if a hurricane happened because it is a strong indicator of home value. Hurricane features do slightly improve model performance and should also be considered. 
 
-I recommend using the model to attempt to buy homes after the next hurricane to see if the model is useful and making business decisions. 
+-  I recommend using the model to attempt to buy homes after the next hurricane to see if the model is useful and making business decisions. 
 
-I recommend to continue validating this model against new hurricane information because this model may be overfit. 
+-  I recommend to continue validating this model against new hurricane information because this model may be overfit. 
 
 ## Further Improvements 
 Further improvements for this project would be to continue collecting data. For the scope of this project I looked at all hurricanes that were a category 4 or above for the last twenty years. I recommend continuing at all hurricane data that also has real estate data available. 
