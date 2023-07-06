@@ -1,0 +1,540 @@
+DATE,AWND,WSF2,HurricaneName,City
+8/14/2004,5.82,13,charley,Apalachicola
+8/13/2004,7.38,13,charley,Brooksville
+8/14/2004,4.7,21.9,charley,Brooksville
+8/13/2004,9.62,25.1,charley,Clearwater
+8/14/2004,7.38,25.1,charley,Clearwater
+8/13/2004,7.16,13,charley,Crestview
+8/14/2004,5.59,13,charley,Crestview
+8/13/2004,4.47,14.1,charley,Cross City
+8/14/2004,2.91,13,charley,Cross City
+8/13/2004,8.28,0,charley,Daytona Beach
+8/14/2004,8.28,8.1,charley,Daytona Beach
+8/13/2004,11.41,16.1,charley,Destin
+8/14/2004,9.62,15,charley,Destin
+8/13/2004,13.87,36.9,charley,Fort Lauderdale
+8/14/2004,8.95,17,charley,Fort Lauderdale
+8/13/2004,13.65,36,charley,Fort Lauderdale
+8/14/2004,10.29,21.9,charley,Fort Lauderdale
+8/13/2004,15.88,50.1,charley,Fort Myers
+8/14/2004,14.09,46.1,charley,Fort Myers
+8/13/2004,17.22,61.1,charley,Fort Myers
+8/14/2004,7.83,17.9,charley,Fort Myers
+8/13/2004,11.41,23.9,charley,Fort Pierce
+8/14/2004,6.04,6.9,charley,Fort Pierce
+8/13/2004,5.37,19.9,charley,Gainesville
+8/14/2004,4.92,12.1,charley,Gainesville
+8/13/2004,4.7,23,charley,Jacksonville
+8/14/2004,5.37,23.9,charley,Jacksonville
+8/13/2004,5.59,21,charley,Jacksonville
+8/14/2004,6.49,19.9,charley,Jacksonville
+8/13/2004,11.41,25.9,charley,Kendall West
+8/14/2004,7.83,17,charley,Kendall West
+8/13/2004,19.46,48.1,charley,Key West
+8/14/2004,7.83,15,charley,Key West
+8/13/2004,12.97,28,charley,Marathon
+8/14/2004,7.16,14.1,charley,Marathon
+8/13/2004,6.93,13,charley,Marianna
+8/14/2004,4.92,10.1,charley,Marianna
+8/13/2004,13.87,33.1,charley,Melbourne
+8/14/2004,8.28,25.9,charley,Melbourne
+8/13/2004,13.65,30,charley,Miami
+8/14/2004,9.17,17,charley,Miami
+8/13/2004,9.17,34.9,charley,Naples
+8/14/2004,5.82,14.1,charley,Naples
+8/13/2004,14.54,33.1,charley,Opa-locka
+8/14/2004,10.07,17.9,charley,Opa-locka
+8/13/2004,12.3,66,charley,Orlando
+8/13/2004,14.32,79,charley,Orlando
+8/14/2004,7.16,32,charley,Orlando
+8/13/2004,10.96,16.1,charley,Panama City Beach
+8/14/2004,9.17,16.1,charley,Panama City Beach
+8/13/2004,13.2,30,charley,Pembroke Pines
+8/14/2004,8.95,17,charley,Pembroke Pines
+8/13/2004,9.84,16.1,charley,Pensacola
+8/14/2004,8.5,14.1,charley,Pensacola
+8/13/2004,4.47,14.1,charley,Perry
+8/14/2004,3.36,10.1,charley,Perry
+8/13/2004,15.66,28,charley,Pompano Beach
+8/14/2004,10.74,21.9,charley,Pompano Beach
+8/13/2004,12.08,31.1,charley,Saint Petersburg
+8/14/2004,7.83,23,charley,Saint Petersburg
+8/13/2004,9.4,31.1,charley,Sarasota
+8/14/2004,8.95,28,charley,Sarasota
+8/13/2004,4.03,14.1,charley,Tallahassee
+8/14/2004,4.7,10.1,charley,Tallahassee
+8/13/2004,7.61,23,charley,Tampa
+8/14/2004,4.47,15,charley,Tampa
+8/13/2004,8.72,29.1,charley,Tavares
+8/14/2004,5.82,13,charley,Tavares
+8/13/2004,12.75,25.9,charley,Vero Beach
+8/14/2004,6.93,29.1,charley,Vero Beach
+8/13/2004,12.75,31.1,charley,West Palm Beach
+8/14/2004,10.96,21,charley,West Palm Beach
+7/10/2005,19.46,30,dennis,Apalachicola
+7/11/2005,17,32,dennis,Apalachicola
+7/10/2005,13.42,28,dennis,Brooksville
+7/11/2005,6.49,15,dennis,Brooksville
+7/10/2005,20.13,36,dennis,Clearwater
+7/11/2005,7.83,15,dennis,Clearwater
+7/10/2005,19.69,42.9,dennis,Crestview
+7/11/2005,12.3,23.9,dennis,Crestview
+7/10/2005,11.41,25.9,dennis,Cross City
+7/11/2005,8.28,25.9,dennis,Cross City
+7/10/2005,8.95,21.9,dennis,Daytona Beach
+7/11/2005,5.14,17.9,dennis,Daytona Beach
+7/11/2005,17.9,62,dennis,Destin
+7/10/2005,12.97,23.9,dennis,Fort Lauderdale
+7/11/2005,7.83,15,dennis,Fort Lauderdale
+7/10/2005,12.3,31.1,dennis,Fort Lauderdale
+7/11/2005,7.83,15,dennis,Fort Lauderdale
+7/10/2005,12.97,21.9,dennis,Fort Myers
+7/11/2005,5.37,21,dennis,Fort Myers
+7/10/2005,14.32,23.9,dennis,Fort Myers
+7/11/2005,6.71,21,dennis,Fort Myers
+7/10/2005,12.97,25.9,dennis,Fort Pierce
+7/11/2005,5.37,14.1,dennis,Fort Pierce
+7/10/2005,12.75,23,dennis,Gainesville
+7/11/2005,6.71,23,dennis,Gainesville
+7/10/2005,14.76,25.9,dennis,Jacksonville
+7/11/2005,7.83,23.9,dennis,Jacksonville
+7/10/2005,14.54,23,dennis,Jacksonville
+7/11/2005,8.05,17,dennis,Jacksonville
+7/10/2005,9.62,25.9,dennis,Kendall West
+7/11/2005,7.38,14.1,dennis,Kendall West
+7/10/2005,17.45,32,dennis,Key West
+7/11/2005,10.29,15,dennis,Key West
+7/10/2005,11.18,17.9,dennis,Marathon
+7/11/2005,8.28,13,dennis,Marathon
+7/10/2005,14.54,25.1,dennis,Marianna
+7/11/2005,12.3,21,dennis,Marianna
+7/10/2005,13.2,21.9,dennis,Melbourne
+7/11/2005,7.83,17,dennis,Melbourne
+7/10/2005,11.86,21,dennis,Miami
+7/11/2005,8.05,14.1,dennis,Miami
+7/10/2005,15.21,28,dennis,Naples
+7/11/2005,6.49,15,dennis,Naples
+7/10/2005,13.65,25.9,dennis,Opa-locka
+7/11/2005,7.83,14.1,dennis,Opa-locka
+7/10/2005,14.09,23.9,dennis,Orlando
+7/11/2005,6.26,17.9,dennis,Orlando
+7/10/2005,13.2,29.1,dennis,Orlando
+7/11/2005,6.04,23.9,dennis,Orlando
+7/10/2005,23.71,38,dennis,Panama City Beach
+7/11/2005,10.51,19.9,dennis,Panama City Beach
+7/10/2005,12.08,25.9,dennis,Pembroke Pines
+7/11/2005,6.71,14.1,dennis,Pembroke Pines
+7/10/2005,22.59,76.1,dennis,Pensacola
+7/11/2005,14.76,25.1,dennis,Pensacola
+7/10/2005,14.76,29.1,dennis,Perry
+7/11/2005,9.62,19.9,dennis,Perry
+7/10/2005,14.32,33.1,dennis,Pompano Beach
+7/11/2005,7.16,13,dennis,Pompano Beach
+7/10/2005,14.54,28,dennis,Punta Gorda
+7/11/2005,6.71,25.9,dennis,Punta Gorda
+7/10/2005,24.16,38.9,dennis,Saint Petersburg
+7/11/2005,10.29,17,dennis,Saint Petersburg
+7/10/2005,19.46,32,dennis,Sarasota
+7/11/2005,7.38,14.1,dennis,Sarasota
+7/10/2005,21.7,38,dennis,Tallahassee
+7/11/2005,12.3,23.9,dennis,Tallahassee
+7/10/2005,13.87,25.9,dennis,Tampa
+7/11/2005,6.93,13,dennis,Tampa
+7/10/2005,13.65,29.1,dennis,Tavares
+7/11/2005,6.49,12.1,dennis,Tavares
+7/10/2005,14.76,33.1,dennis,Vero Beach
+7/11/2005,7.61,15,dennis,Vero Beach
+7/10/2005,15.88,34.9,dennis,West Palm Beach
+7/11/2005,8.5,15,dennis,West Palm Beach
+7/10/2005,13.65,25.1,dennis,Winter Haven
+7/11/2005,7.38,17.9,dennis,Winter Haven
+10/7/2016,10.74,21.9,matthew,Apalachicola
+10/8/2016,8.05,15,matthew,Apalachicola
+10/7/2016,8.28,18.1,matthew,Bonifay
+10/8/2016,6.04,15,matthew,Bonifay
+10/7/2016,19.69,30,matthew,Brooksville
+10/8/2016,8.05,19.9,matthew,Brooksville
+10/7/2016,20.58,31.1,matthew,Clearwater
+10/8/2016,8.28,17,matthew,Clearwater
+10/7/2016,8.28,19.9,matthew,Crestview
+10/8/2016,8.95,18.1,matthew,Crestview
+10/7/2016,16.33,27.1,matthew,Cross City
+10/8/2016,8.95,16.1,matthew,Cross City
+10/7/2016,27.51,52.1,matthew,Daytona Beach
+10/8/2016,12.08,23.9,matthew,Daytona Beach
+10/7/2016,10.74,19.9,matthew,Destin
+10/8/2016,12.75,17,matthew,Destin
+10/7/2016,15.66,25.9,matthew,Fort Lauderdale
+10/8/2016,8.05,14.1,matthew,Fort Lauderdale
+10/7/2016,16.55,29.1,matthew,Fort Lauderdale
+10/8/2016,7.61,15,matthew,Fort Lauderdale
+10/7/2016,15.21,23.9,matthew,Fort Myers
+10/8/2016,8.72,16.1,matthew,Fort Myers
+10/7/2016,10.96,21.9,matthew,Fort Myers
+10/8/2016,6.26,13,matthew,Fort Myers
+10/7/2016,22.59,42.9,matthew,Fort Pierce
+10/8/2016,9.62,19.9,matthew,Fort Pierce
+10/7/2016,19.24,33.1,matthew,Gainesville
+10/8/2016,9.17,21.9,matthew,Gainesville
+10/7/2016,28.41,47,matthew,Jacksonville
+10/8/2016,13.87,30,matthew,Jacksonville
+10/7/2016,26.4,45,matthew,Jacksonville
+10/8/2016,13.87,32,matthew,Jacksonville
+10/7/2016,33.33,53,matthew,Jacksonville
+10/8/2016,13.42,30,matthew,Jacksonville
+10/8/2016,11.86,25.1,matthew,Jacksonville
+10/7/2016,13.2,25.9,matthew,Kendall West
+10/8/2016,6.93,16.1,matthew,Kendall West
+10/7/2016,10.29,17,matthew,Key West
+10/8/2016,6.71,12.1,matthew,Key West
+10/7/2016,11.86,18.1,matthew,Key West
+10/8/2016,6.71,12.1,matthew,Key West
+10/7/2016,17.45,21.9,matthew,Lakeland
+10/8/2016,8.05,14.1,matthew,Lakeland
+10/7/2016,7.61,15,matthew,Marathon
+10/8/2016,4.92,10.1,matthew,Marathon
+10/7/2016,10.96,19.9,matthew,Marianna
+10/8/2016,8.95,19.9,matthew,Marianna
+10/7/2016,25.72,53,matthew,Melbourne
+10/8/2016,11.86,23,matthew,Melbourne
+10/7/2016,11.86,23,matthew,Miami
+10/8/2016,6.71,13,matthew,Miami
+10/7/2016,10.51,21,matthew,Milton
+10/8/2016,12.75,23,matthew,Milton
+10/7/2016,8.5,19.9,matthew,Milton
+10/8/2016,7.61,15,matthew,Milton
+10/7/2016,15.88,25.9,matthew,Naples
+10/8/2016,8.05,15,matthew,Naples
+10/7/2016,15.66,28,matthew,Opa-locka
+10/8/2016,8.5,14.1,matthew,Opa-locka
+10/7/2016,24.83,40.9,matthew,Orlando
+10/8/2016,11.41,21.9,matthew,Orlando
+10/7/2016,26.17,46.1,matthew,Orlando
+10/8/2016,11.18,21,matthew,Orlando
+10/7/2016,9.84,17,matthew,Panama City
+10/8/2016,10.51,21,matthew,Panama City
+10/7/2016,15.66,25.9,matthew,Pembroke Pines
+10/8/2016,8.05,14.1,matthew,Pembroke Pines
+10/7/2016,9.84,19.9,matthew,Pensacola
+10/8/2016,14.09,21.9,matthew,Pensacola
+10/7/2016,16.11,30,matthew,Pompano Beach
+10/8/2016,9.62,17,matthew,Pompano Beach
+10/7/2016,15.66,25.1,matthew,Punta Gorda
+10/8/2016,8.72,15,matthew,Punta Gorda
+10/7/2016,14.76,25.9,matthew,Saint Petersburg
+10/8/2016,6.71,16.1,matthew,Saint Petersburg
+10/7/2016,18.12,29.1,matthew,Sarasota
+10/8/2016,8.72,16.1,matthew,Sarasota
+10/7/2016,12.75,23,matthew,Tallahassee
+10/8/2016,9.17,17,matthew,Tallahassee
+10/7/2016,16.78,25.1,matthew,Tampa
+10/8/2016,7.61,16.1,matthew,Tampa
+10/7/2016,21.25,31.1,matthew,Tavares
+10/8/2016,8.05,18.1,matthew,Tavares
+10/7/2016,24.83,55,matthew,Vero Beach
+10/8/2016,11.41,21,matthew,Vero Beach
+10/7/2016,19.69,31.1,matthew,West Palm Beach
+10/8/2016,10.51,17,matthew,West Palm Beach
+10/7/2016,13.42,25.9,matthew,Winter Haven
+10/8/2016,8.72,18.1,matthew,Winter Haven
+9/11/2017,20.8,36.9,irma,Apalachicola
+9/10/2017,19.01,32,irma,Apalachicola
+9/9/2017,12.97,19.9,irma,Apalachicola
+9/11/2017,13.42,23,irma,Bonifay
+9/10/2017,14.32,25.1,irma,Bonifay
+9/9/2017,8.95,18.1,irma,Bonifay
+9/10/2017,20.8,42.9,irma,Brooksville
+9/9/2017,13.87,25.9,irma,Brooksville
+9/11/2017,20.8,53,irma,Clearwater
+9/10/2017,25.5,49,irma,Clearwater
+9/9/2017,15.66,25.1,irma,Clearwater
+9/11/2017,14.76,25.1,irma,Crestview
+9/10/2017,11.63,23.9,irma,Crestview
+9/9/2017,6.93,18.1,irma,Crestview
+9/11/2017,35.12,40.9,irma,Cross City
+9/10/2017,19.91,31.1,irma,Cross City
+9/9/2017,12.97,21.9,irma,Cross City
+9/11/2017,19.91,38.9,irma,Daytona Beach
+9/10/2017,24.61,53.9,irma,Daytona Beach
+9/9/2017,17.22,31.1,irma,Daytona Beach
+9/11/2017,17.22,30,irma,Destin
+9/10/2017,14.54,23,irma,Destin
+9/9/2017,10.07,16.1,irma,Destin
+9/11/2017,13.2,19.9,irma,Fort Lauderdale
+9/10/2017,37.13,53,irma,Fort Lauderdale
+9/9/2017,20.13,38.9,irma,Fort Lauderdale
+9/9/2017,21.92,53,irma,Fort Lauderdale
+9/9/2017,16.78,32,irma,Fort Myers
+9/11/2017,19.24,45,irma,Fort Myers
+9/10/2017,35.34,74,irma,Fort Myers
+9/9/2017,16.33,31.1,irma,Fort Myers
+9/11/2017,17.45,44.1,irma,Fort Pierce
+9/10/2017,31.32,70.9,irma,Fort Pierce
+9/9/2017,10.74,31.1,irma,Fort Pierce
+9/11/2017,20.58,45,irma,Gainesville
+9/10/2017,17.9,36,irma,Gainesville
+9/9/2017,10.29,29.1,irma,Gainesville
+9/11/2017,26.4,46.1,irma,Jacksonville
+9/10/2017,23.04,42.9,irma,Jacksonville
+9/9/2017,17.22,25.9,irma,Jacksonville
+9/11/2017,28.19,59.1,irma,Jacksonville
+9/10/2017,24.16,40.9,irma,Jacksonville
+9/9/2017,17.45,25.9,irma,Jacksonville
+9/11/2017,32.21,53,irma,Jacksonville
+9/10/2017,27.51,42.9,irma,Jacksonville
+9/9/2017,19.24,25.9,irma,Jacksonville
+9/11/2017,31.99,70,irma,Jacksonville
+9/10/2017,35.57,53.9,irma,Jacksonville
+9/9/2017,25.72,35.1,irma,Jacksonville
+9/10/2017,37.13,46.1,irma,Kendall West
+9/9/2017,21.03,44.1,irma,Kendall West
+9/9/2017,26.17,48.1,irma,Key West
+9/11/2017,21.25,36,irma,Lakeland
+9/10/2017,21.92,51,irma,Lakeland
+9/9/2017,15.88,21,irma,Lakeland
+9/9/2017,32.21,53.9,irma,Marathon
+9/11/2017,21.03,33.1,irma,Marianna
+9/10/2017,18.12,29.1,irma,Marianna
+9/9/2017,12.3,23,irma,Marianna
+9/9/2017,21.7,28,irma,Melbourne
+9/10/2017,38.48,53,irma,Miami
+9/9/2017,19.46,48.1,irma,Miami
+9/11/2017,16.33,25.1,irma,Milton
+9/10/2017,15.88,32,irma,Milton
+9/9/2017,11.41,23,irma,Milton
+9/11/2017,12.97,23.9,irma,Milton
+9/10/2017,9.62,23.9,irma,Milton
+9/9/2017,7.61,17,irma,Milton
+9/10/2017,34,61.1,irma,Naples
+9/9/2017,15.21,31.1,irma,Naples
+9/11/2017,15.21,30,irma,Opa-locka
+9/10/2017,40.71,55,irma,Opa-locka
+9/9/2017,22.37,45,irma,Opa-locka
+9/11/2017,25.5,55.9,irma,Orlando
+9/10/2017,21.92,53,irma,Orlando
+9/9/2017,14.54,31.1,irma,Orlando
+9/11/2017,25.28,59.1,irma,Orlando
+9/10/2017,22.82,57.9,irma,Orlando
+9/9/2017,15.43,28,irma,Orlando
+9/11/2017,19.01,30,irma,Panama City
+9/10/2017,19.46,33.1,irma,Panama City
+9/9/2017,12.3,23,irma,Panama City
+9/11/2017,14.54,55.9,irma,Pembroke Pines
+9/10/2017,30.65,42.9,irma,Pembroke Pines
+9/9/2017,21.03,40.9,irma,Pembroke Pines
+9/11/2017,17.22,28,irma,Pensacola
+9/10/2017,11.63,21,irma,Pensacola
+9/9/2017,8.5,16.1,irma,Pensacola
+9/11/2017,13.2,21.9,irma,Pompano Beach
+9/10/2017,40.26,59.1,irma,Pompano Beach
+9/9/2017,21.7,42.9,irma,Pompano Beach
+9/11/2017,19.24,42.9,irma,Punta Gorda
+9/10/2017,31.54,55.9,irma,Punta Gorda
+9/9/2017,18.34,29.1,irma,Punta Gorda
+9/9/2017,21.25,31.1,irma,Saint Augustine
+9/11/2017,17.45,38,irma,Saint Petersburg
+9/10/2017,35.34,53,irma,Saint Petersburg
+9/9/2017,23.26,36,irma,Saint Petersburg
+9/11/2017,22.37,44.1,irma,Sarasota
+9/10/2017,26.4,49,irma,Sarasota
+9/9/2017,15.43,28,irma,Sarasota
+9/11/2017,20.8,38,irma,Tallahassee
+9/10/2017,15.66,25.9,irma,Tallahassee
+9/9/2017,11.86,21,irma,Tallahassee
+9/11/2017,18.79,35.1,irma,Tampa
+9/10/2017,20.36,52.1,irma,Tampa
+9/9/2017,12.3,21,irma,Tampa
+9/11/2017,24.38,48.1,irma,Tavares
+9/10/2017,19.24,46.1,irma,Tavares
+9/9/2017,13.2,23.9,irma,Tavares
+9/11/2017,8.5,32,irma,Vero Beach
+9/10/2017,21.92,21.9,irma,Vero Beach
+9/9/2017,16.11,30,irma,Vero Beach
+9/11/2017,17,40.9,irma,West Palm Beach
+9/10/2017,38.92,66,irma,West Palm Beach
+9/9/2017,20.8,38,irma,West Palm Beach
+9/11/2017,20.8,51,irma,Winter Haven
+9/10/2017,25.95,55,irma,Winter Haven
+9/9/2017,16.55,25.9,irma,Winter Haven
+10/10/2018,29.75,63.1,michael,Apalachicola
+10/9/2018,13.2,21,michael,Apalachicola
+10/11/2018,7.83,17,michael,Brooksville
+10/10/2018,13.2,25.1,michael,Brooksville
+10/9/2018,10.07,16.1,michael,Brooksville
+10/11/2018,8.05,16.1,michael,Clearwater
+10/10/2018,18.34,30,michael,Clearwater
+10/9/2018,14.09,28,michael,Clearwater
+10/11/2018,8.72,16.1,michael,Crestview
+10/10/2018,14.32,30,michael,Crestview
+10/9/2018,9.17,17,michael,Crestview
+10/11/2018,9.84,16.1,michael,Cross City
+10/10/2018,14.99,23,michael,Cross City
+10/9/2018,6.93,13,michael,Cross City
+10/11/2018,10.07,19.9,michael,Daytona Beach
+10/10/2018,8.95,29.1,michael,Daytona Beach
+10/9/2018,10.51,23,michael,Daytona Beach
+10/11/2018,10.74,18.1,michael,Destin
+10/10/2018,16.55,42.9,michael,Destin
+10/9/2018,12.08,18.1,michael,Destin
+10/11/2018,4.92,17,michael,Fort Lauderdale
+10/10/2018,10.07,21,michael,Fort Lauderdale
+10/9/2018,12.75,19.9,michael,Fort Lauderdale
+10/11/2018,5.14,23,michael,Fort Lauderdale
+10/10/2018,11.41,23.9,michael,Fort Lauderdale
+10/9/2018,14.99,25.1,michael,Fort Lauderdale
+10/11/2018,5.14,23.9,michael,Fort Myers
+10/10/2018,11.41,21.9,michael,Fort Myers
+10/9/2018,11.63,19.9,michael,Fort Myers
+10/11/2018,6.71,25.1,michael,Fort Myers
+10/10/2018,14.32,25.9,michael,Fort Myers
+10/9/2018,11.63,23,michael,Fort Myers
+10/11/2018,7.83,17,michael,Fort Pierce
+10/10/2018,10.51,19.9,michael,Fort Pierce
+10/9/2018,15.43,21.9,michael,Fort Pierce
+10/11/2018,11.18,21,michael,Gainesville
+10/10/2018,13.87,23.9,michael,Gainesville
+10/9/2018,9.62,18.1,michael,Gainesville
+10/11/2018,12.75,23,michael,Jacksonville
+10/10/2018,15.66,28,michael,Jacksonville
+10/9/2018,12.53,23.9,michael,Jacksonville
+10/11/2018,13.42,28,michael,Jacksonville
+10/10/2018,14.99,30,michael,Jacksonville
+10/9/2018,11.86,32,michael,Jacksonville
+10/11/2018,13.65,25.9,michael,Jacksonville
+10/10/2018,17,29.1,michael,Jacksonville
+10/9/2018,12.97,29.1,michael,Jacksonville
+10/11/2018,8.5,18.1,michael,Jacksonville
+10/10/2018,10.51,19.9,michael,Jacksonville
+10/9/2018,10.07,19.9,michael,Jacksonville
+10/11/2018,12.53,23.9,michael,Jacksonville
+10/10/2018,19.01,32,michael,Jacksonville
+10/9/2018,20.36,33.1,michael,Jacksonville
+10/11/2018,5.59,15,michael,Kendall West
+10/10/2018,8.05,15,michael,Kendall West
+10/9/2018,11.41,18.1,michael,Kendall West
+10/11/2018,6.71,15,michael,Key West
+10/10/2018,13.65,25.1,michael,Key West
+10/9/2018,19.46,36,michael,Key West
+10/11/2018,7.38,14.1,michael,Key West
+10/10/2018,13.87,23,michael,Key West
+10/9/2018,19.24,35.1,michael,Key West
+10/11/2018,7.16,12.1,michael,Lakeland
+10/10/2018,14.32,21.9,michael,Lakeland
+10/9/2018,12.08,16.1,michael,Lakeland
+10/11/2018,4.47,10.1,michael,Marathon
+10/10/2018,9.62,17,michael,Marathon
+10/9/2018,12.97,23,michael,Marathon
+10/10/2018,18.12,27.1,michael,Marianna
+10/9/2018,11.41,18.1,michael,Marianna
+10/11/2018,10.07,21.9,michael,Melbourne
+10/10/2018,12.08,23,michael,Melbourne
+10/9/2018,14.54,25.1,michael,Melbourne
+10/11/2018,5.82,15,michael,Miami
+10/10/2018,9.62,16.1,michael,Miami
+10/9/2018,12.75,18.1,michael,Miami
+10/9/2018,12.08,21,michael,Milton
+10/11/2018,7.61,15,michael,Milton
+10/10/2018,10.96,21.9,michael,Milton
+10/9/2018,8.95,17,michael,Milton
+10/11/2018,6.04,25.1,michael,Naples
+10/10/2018,14.09,23.9,michael,Naples
+10/9/2018,12.97,25.1,michael,Naples
+10/11/2018,4.92,18.1,michael,Opa-locka
+10/10/2018,12.3,19.9,michael,Opa-locka
+10/9/2018,12.97,18.1,michael,Opa-locka
+10/11/2018,9.17,18.1,michael,Orlando
+10/10/2018,13.42,29.1,michael,Orlando
+10/9/2018,11.41,21,michael,Orlando
+10/11/2018,8.05,23,michael,Orlando
+10/10/2018,12.75,28,michael,Orlando
+10/9/2018,10.51,19.9,michael,Orlando
+10/10/2018,19.46,38,michael,Panama City
+10/9/2018,11.18,21.9,michael,Panama City
+10/11/2018,4.92,18.1,michael,Pembroke Pines
+10/10/2018,10.51,18.1,michael,Pembroke Pines
+10/9/2018,11.18,17,michael,Pembroke Pines
+10/11/2018,11.63,18.1,michael,Pensacola
+10/10/2018,14.76,31.1,michael,Pensacola
+10/9/2018,9.62,18.1,michael,Pensacola
+10/11/2018,5.59,17,michael,Pompano Beach
+10/10/2018,13.2,23,michael,Pompano Beach
+10/9/2018,14.32,21,michael,Pompano Beach
+10/11/2018,5.82,21.9,michael,Punta Gorda
+10/10/2018,14.09,28,michael,Punta Gorda
+10/9/2018,11.63,21.9,michael,Punta Gorda
+10/11/2018,9.62,18.1,michael,Saint Augustine
+10/10/2018,16.33,23.9,michael,Saint Augustine
+10/9/2018,19.46,36,michael,Saint Augustine
+10/11/2018,7.61,15,michael,Saint Petersburg
+10/10/2018,18.57,29.1,michael,Saint Petersburg
+10/9/2018,18.57,31.1,michael,Saint Petersburg
+10/11/2018,8.05,23,michael,Sarasota
+10/10/2018,17.22,29.1,michael,Sarasota
+10/9/2018,14.76,25.1,michael,Sarasota
+10/11/2018,10.51,19.9,michael,Tallahassee
+10/10/2018,23.71,49,michael,Tallahassee
+10/9/2018,11.86,23,michael,Tallahassee
+10/11/2018,8.5,15,michael,Tampa
+10/10/2018,14.99,25.1,michael,Tampa
+10/9/2018,9.17,21.9,michael,Tampa
+10/11/2018,7.83,15,michael,Tavares
+10/10/2018,13.87,35.1,michael,Tavares
+10/9/2018,10.74,17,michael,Tavares
+10/11/2018,10.51,18.1,michael,Vero Beach
+10/10/2018,12.3,21.9,michael,Vero Beach
+10/9/2018,14.54,21.9,michael,Vero Beach
+10/11/2018,6.93,17,michael,West Palm Beach
+10/10/2018,12.75,25.1,michael,West Palm Beach
+10/9/2018,13.65,23,michael,West Palm Beach
+10/11/2018,7.38,16.1,michael,Winter Haven
+10/10/2018,13.2,25.1,michael,Winter Haven
+10/9/2018,11.63,18.1,michael,Winter Haven
+9/28/2022,38.0273,57.93571,ian,Apalachicola
+9/28/2022,26.015147,51.4487,ian,Bonifay
+9/28/2022,42.031351,74.04139,ian,Brooksville
+9/28/2022,13.510876,36.01409,ian,Crestview 
+9/29/2022,40.532628,65.09379,ian,Cross City
+9/29/2022,74.063759,138.6878,ian,Daytona Beach
+9/28/2022,32.524526,48.98811,ian,Destin
+9/28/2022,42.031351,71.5808,ian,Fort Lauderdale 
+9/28/2022,50.531571,78.51519,ian,Fort Lauderdale 
+9/28/2022,49.547335,74.04139,ian,Fort Myers
+9/28/2022,73.549272,174.70189,ian,Fort Myers
+9/28/2022,50.039453,100.6605,ian,Fort Pierce
+9/29/2022,42.523469,69.56759,ian,Gainesville
+9/29/2022,54.535622,78.51519,ian,Jacksonville
+9/29/2022,50.531571,85.0022,ian,Jacksonville
+9/29/2022,74.555877,95.96301,ian,Jacksonville
+9/29/2022,36.036459,65.09379,ian,Jacksonville
+9/29/2022,79.566533,109.6081,ian,Jacksonville Beach
+9/28/2022,39.033905,65.09379,ian,Kendall West
+9/28/2022,54.535622,116.54249,ian,Key West
+9/28/2022,63.550329,118.5557,ian,Key West
+9/28/2022,51.538176,105.1343,ian,Lakeland
+9/29/2022,48.54073,91.48921,ian,Leesburg
+9/28/2022,37.020695,71.5808,ian,Marathon
+9/28/2022,34.023249,57.93571,ian,Marianna
+9/28/2022,41.539233,69.56759,ian,Miami
+9/28/2022,25.523029,53.46191,ian,Milton
+9/28/2022,68.046498,100.6605,ian,Naples
+9/29/2022,47.534125,78.51519,ian,Ocala
+9/28/2022,53.551386,74.04139,ian,Opa-locka
+9/29/2022,54.535622,103.12109,ian,Orlando
+9/28/2022,46.035402,95.96301,ian,Orlando
+9/29/2022,58.539673,118.5557,ian,Orlando
+9/29/2022,63.058211,109.6081,ian,Orlando
+9/28/2022,33.531131,56.14619,ian,Panama City
+9/28/2022,45.028797,74.04139,ian,Pembroke Pines
+9/28/2022,33.016644,65.09379,ian,Pensacola
+9/28/2022,25.523029,46.9749,ian,Pensacola
+9/28/2022,54.043504,89.476,ian,Pompano
+9/28/2022,91.064199,194.6103,ian,Punta Gorda
+9/29/2022,72.565036,100.6605,ian,Saint Augustine 
+9/28/2022,79.052046,118.5557,ian,Saint Petersburg
+9/28/2022,56.548832,87.01541,ian,Saint Petersburg
+9/28/2022,74.063759,118.5557,ian,Sarasota
+9/29/2022,29.52708,51.4487,ian,Tallahassee 
+9/28/2022,39.526023,82.54161,ian,Tampa
+9/29/2022,57.04095,107.59489,ian,Vero Beach
+9/28/2022,53.551386,85.0022,ian,West Palm Beach
+9/28/2022,40.04051,71.5808,ian,Winter Haven
