@@ -1,6 +1,7 @@
 # Hurricane Impact on Florida Real Estate Value 
 
 **Final Project: Analyzed the impact of five different hurricanes on Florida Real Estate value using data sourced from Zillow and The National Oceanic and Atmospheric Administration (NOAA).**
+![Home Impacted by Hurricane Ian](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/data/images/banner.png)
 
 ## Summary 
 
@@ -26,6 +27,8 @@ I looked at three different datasets from Zillow that had been smoothed and seas
 **Middle Tier Homes**: typical value for homes within the 35th to 65th percentile range for a given region.     
 **Top Tier Homes**: typical value for homes within the 65th to 95th percentile range for a given region.     
 
+![Home Value Change](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/data/images/Bottom_house_graph.png)
+
 #### NOAA 
 
 Data was obtained from the National Oceanic and Atmospheric Administration (NOAA) and National Climatic Data Center (NCDC) using the Climate Data Online (CDO) database. The CDO provides free access to NCDC's archive of global historical weather and climate data in addition to station history information. These data include quality controlled daily, monthly, seasonal, and yearly measurements of temperature, precipitation, wind, and degree days as well as radar data and 30-year Climate Normals. For the purpose of this project all data was downloaded in CSV format, but PDF and Daily Text was available as well. 
@@ -35,18 +38,26 @@ Data from NOAA was selected because it provides daily summaries for average wind
 For the purpose of this project I looked at six hurricanes: Charley (08/2004), Dennis (07/2005), Matthew (10/2016), Irma (09/2017), Michael (10/2018), and Ian (09/2022)
 
 I used information from hurricane Charley, Dennis, Matthew, Irma, and Michael to create classification models and validated the model with recent data from hurricane Ian.
+![Box And Whisker](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/data/images/box_and_whisker.png)
+![Hurricane Wind Map](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/data/images/C2DA9FD2-3EAE-434F-AAA6-62460FBD4005.jpg)
+![Hurricane Wind Map](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/data/images/F7203A12-45AB-4811-81D6-A8DC97B53E34.jpg)
 
 ### Final Dataset 
 
 I used three datasets for the purpose of modeling. The datasets each contained the same 7 columns: 
-AWND: Average daily wind speed (miles per hour)    
-WSF2: Fastest 2-minute wind speed (miles per hour)   
-SizeRank: Numerical rank of size of cities, ranked 0 through 30,132   
-before: Home value six months before the hurricane    
-after: Home value six months after the hurricane     
-percent: Percent change in home value from six months before hurricane to six months after hurricane    
-increase: 1 = increase of 75% of more in home value, 0 = no increase of 75% of more in home value    
+
+**AWND**: Average daily wind speed (miles per hour)    
+**WSF2**: Fastest 2-minute wind speed (miles per hour)   
+**SizeRank**: Numerical rank of size of cities, ranked 0 through 30,132   
+**before**: Home value six months before the hurricane    
+**after**: Home value six months after the hurricane     
+**percent**: Percent change in home value from six months before hurricane to six months after hurricane    
+**increase**: 1 = increase of 75% of more in home value, 0 = no increase of 75% of more in home value  
+
 I trained the models on data drawn from the bottom tier home value dataset which had 141 entries. I chose this dataset to train our models on because it had the best target variable class imbalance of  68%. I used our dataset containing all home values to test our model which contained 344 entries. I also used a dataset containing just data from hurricane Ian to see how the model would perform on future hurricane data. The hurricane Ian dataset contained 27 entries. 
+
+![Variable Correlation](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/data/images/BottomCorrHeatMap.png)
+![Pairplot](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/data/images/BottomPairplot.png)
 
 ## Feature Engineering 
 
@@ -59,6 +70,8 @@ Data from NOAA provided location information in the form of latitude and longitu
 ### Home Value Increase
 
 Since this was a classification problem the target variable had to be in the form of a class. Using home value data from six months before and after each hurricane I engineered a column that contained two categories, increased significantly (coded as 1) and did not increase significantly (coded as 0). If the percentage change in the value of a home was in the 75th percentile six months after a hurricane it was considered to be in the category 1, if not then 0. 
+
+![Class Imbalance](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/data/images/bottomtierclassimbalance.png)
 
 ## Modeling 
 
@@ -78,9 +91,15 @@ I chose to use a logistic regression model because it is commonly used for predi
 
 An XG Boost model was used due to its adaptability and strong prediction performance. Our XG Boost model had perfect accuracy and a perfect F1 score. When the model was run without the inclusion of wind features model accuracy dropped to 98% and the F1 score dropped to 0.96. Model tuning was also performed on a model that contained just wind features, however, it did not improve overall model performance. 
 
+![Confusion Matrix](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/data/images/confusion_matrix%20for%20best%20model.png)
+![Feature Importance](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/data/images/SHAPIan.png)
+
 ### Final Model Validation 
 
 Our final model was an XG Boost model. Since the goal for this project is to help real estate agencies understand how hurricanes impact home value data from a recent hurricane was used to test our model. Using data from hurricane Ian our model performed with 74% accuracy, which is slightly better than the baseline accuracy of 59%. The F1-score was 0.544 and the model predicted 7 false negatives and no false positives. The AUC score was 0.92. 
+
+![Hurricane Ian Confusion Matrix](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/data/images/confusion%20matrix%20for%20ian.jpg)
+![Hurricane Ian Feature Importance](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/data/images/SHAPIan.png)
 
 ## Recommendations 
 I recommend further looking into cities that have large Size Ranks and lower than average housing prices as a predictor, regardless of if a hurricane happened because it is a strong indicator of home value. Hurricane features do slightly improve model performance and should also be considered. 
