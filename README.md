@@ -95,3 +95,14 @@ Further improvements for this project would be to continue collecting data. For 
 
 I also recommend looking at a different region which is impacted by hurricanes, such as Texas, to see what other features could be of importance while modeling. 
 
+## References 
+
+## Reproduction Instruction
+
+## Contact Me 
+Thank you for checking out my GitHub if you have any further questions please contact me at samgrasland@gmail.com! 
+
+## Repo Structure 
+
+
+
