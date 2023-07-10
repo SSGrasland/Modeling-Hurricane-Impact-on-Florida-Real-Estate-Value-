@@ -171,15 +171,15 @@ If you would like to download the data from the original source please visit [Zi
 - ZHVI All Homes (SFR, condo, Co-op) - Times Series, Smoothed, Seasonally Adjusted ($)        
 
 ## Libraries 
-Pandas: Python Data Analysis Library
-NumPy: For working with arrays 
-Matplotlib: For visualization
-Seaborn: For visualization 
-SHAP: Used to explain output of machine learning models 
-Scikit Learn: For machine learning 
-Scipy: For scientific and mathematical problems 
-XGBoost: Optimized distributed gradient boosting library
-Geopy: Used for locating addresses from coordinates 
+**Pandas**: Python Data Analysis Library     
+**NumPy**: For working with arrays       
+**Matplotlib**: For visualization      
+**Seaborn**: For visualization             
+**SHAP**: Used to explain output of machine learning models                  
+**Scikit Learn**: For machine learning                
+**Scipy**: For scientific and mathematical problems                 
+**XGBoost**: Optimized distributed gradient boosting library              
+**Geopy**: Used for locating addresses from coordinates                
 
 ## Contact Me 
 Thank you for checking out my GitHub if you have any further questions please contact me at samgrasland@gmail.com! 
