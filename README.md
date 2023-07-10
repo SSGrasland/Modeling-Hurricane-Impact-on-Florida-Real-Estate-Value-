@@ -142,15 +142,16 @@ Zillow. Housing Data - Zillow Research. Zillow Research. Published 2011. https:/
 ## Repo Structure and Reproduction Instructions
 
 ### Structure 
-|-- data <- Folder containing datasets used in analysis, images, and documentation 
-|--  presentation and notebook pdf <- Folder containing presentation and notebook pdf         
-|-- .gitignore <- File that ignores files 
-|-- 1.HousingData.ipynb <- Narrative documentation of analysis in Jupyter notebook
-|-- 2.HurricaneData.ipynb <- Narrative documentation of analysis in Jupyter notebook         |-- 3.JoiningDatasets.ipynb <- Narrative documentation of analysis in Jupyter notebook     
-|-- 4.Modeling.ipynb <- Narrative documentation of analysis in Jupyter notebook     
-|-- 5.WindSpeedAnalysisandModelTuning.ipynb <- Narrative documentation of analysis in Jupyter notebook        
-|-- README.md <- The top-level README for reviewers of this project       
-└── environment.yml <- Environment used in this project 
+|-- data <- Folder containing datasets used in analysis, images, and documentation     
+|--  presentation and notebook pdf <- Folder containing presentation and notebook pdf              
+|-- .gitignore <- File that ignores files     
+|-- 1.HousingData.ipynb <- Narrative documentation of analysis in Jupyter notebook     
+|-- 2.HurricaneData.ipynb <- Narrative documentation of analysis in Jupyter notebook             
+|-- 3.JoiningDatasets.ipynb <- Narrative documentation of analysis in Jupyter notebook         
+|-- 4.Modeling.ipynb <- Narrative documentation of analysis in Jupyter notebook         
+|-- 5.WindSpeedAnalysisandModelTuning.ipynb <- Narrative documentation of analysis in Jupyter notebook            
+|-- README.md <- The top-level README for reviewers of this project            
+└ - environment.yml <- Environment used in this project       
 
 ### Reproduction 
 All data used in this project is available in the data folder. The data can be processed using the notebooks in numerical order. 
