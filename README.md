@@ -154,7 +154,7 @@ Zillow. Housing Data - Zillow Research. Zillow Research. Published 2011. https:/
 └ - environment.yml <- Environment used in this project       
 
 ### Reproduction 
-All data used in this project is available in the data folder. The data can be processed using the notebooks in numerical order. 
+All data used in this project is available in the data folder. The data can be processed using the notebooks in numerical order. The environment used is available as a .yml file. 
 
 #### Downloading the Data
 ###### NOAA 
