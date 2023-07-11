@@ -137,11 +137,11 @@ I also recommend looking at a different region which is impacted by hurricanes, 
 |-- 2.HurricaneData.ipynb <- Narrative documentation of analysis in Jupyter notebook             
 |-- 3.JoiningDatasets.ipynb <- Narrative documentation of analysis in Jupyter notebook         
 |-- 4.Modeling.ipynb <- Narrative documentation of analysis in Jupyter notebook         
-|-- 5.WindSpeedAnalysisandModelTuning.ipynb <- Narrative documentation of analysis in Jupyter notebook            
-|-- README.md <- The top-level README for reviewers of this project  
-|-- References.txt <- List of works cited 
-|-- ReproductionInstructions.txt <- How to reproduce this project 
-└ - environment.yml <- Environment used in this project       
+|-- 5.WindSpeedAnalysisandModelTuning.ipynb <- Narrative documentation of analysis in Jupyter notebook              
+|-- README.md <- The top-level README for reviewers of this project      
+|-- References.txt <- List of works cited      
+|-- ReproductionInstructions.txt <- How to reproduce this project        
+└ - environment.yml <- Environment used in this project             
 
 
 ## Contact Me 
