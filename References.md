@@ -12,3 +12,9 @@ Olsen S. Zillow Home Value Index Methodology, 2023 Revision: What’s Changed? Z
 Training, Tuning, and Test Datasets. onepager.togaware.com. Accessed July 6, 2023. https://onepager.togaware.com/Training_Tuning_Test_Datase.html            
 ZHVI User Guide. Zillow Research. https://www.zillow.com/research/zhvi-user-guide/        
 Zillow. Housing Data - Zillow Research. Zillow Research. Published 2011. https://www.zillow.com/research/data/ 
+
+
+
+
+
+
