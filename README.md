@@ -42,9 +42,9 @@ For the purpose of this project I looked at six hurricanes: Charley (08/2004), D
 
 ### Final Dataset 
 
-I used three datasets for the purpose of modeling. The datasets each contained the same 7 columns: 
-
-**AWND**: Average daily wind speed (miles per hour)    
+**City**: City name   
+**HurricaneName**: Name of the hurricane     
+**AWND**: Average daily wind speed (miles per hour)      
 **WSF2**: Fastest 2-minute wind speed (miles per hour)   
 **SizeRank**: Numerical rank of size of cities, ranked 0 through 30,132   
 **before**: Home value six months before the hurricane    
