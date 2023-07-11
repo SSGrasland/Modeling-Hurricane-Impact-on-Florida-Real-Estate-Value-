@@ -124,23 +124,9 @@ I recommend using the model to attempt to buy homes after the next hurricane to 
 Further improvements for this project would be to continue collecting data. For the scope of this project I looked at all hurricanes that were a category 4 or above for the last twenty years. I recommend continuing at all hurricane data that also has real estate data available. 
 
 I also recommend looking at a different region which is impacted by hurricanes, such as Texas, to see what other features could be of importance while modeling. 
+        
 
-## References 
-
-Centers N. Select a Location | Data Tools | Climate Data Online (CDO) | National Climatic Data Center (NCDC). Noaa.gov. Published 2019. https://www.ncdc.noaa.gov/cdo-web/datatools/selectlocation     
-Classification Feature Selection : SHAP Tutorial. kaggle.com. Accessed July 6, 2023. https://www.kaggle.com/code/ritzig/classification-feature-selection-shap-tutorial#SHAP       
-Filho M. How To Get Feature Importance In Logistic Regression. forecastegy.com. Published March 30, 2023. Accessed July 10, 2023. https://forecastegy.com/posts/feature-importance-in-logistic-regression/#feature-importance-in-binary-logistic-regression       
-Flatiron School. Flatiron School. Accessed July 7, 2023. https://learning.flatironschool.com/courses/5333          
-Hurricanes. coast.noaa.gov. https://coast.noaa.gov/hurricanes/  
-Kumar A. Accuracy, Precision, Recall & F1-Score - Python Examples. Data Analytics. Published October 1, 2021. https://vitalflux.com/accuracy-precision-recall-f1-score-python-example/        
-kumar_satyam. Get the city, state, and country names from latitude and longitude using Python. GeeksforGeeks. Published October 15, 2020. https://www.geeksforgeeks.org/get-the-city-state-and-country-names-from-latitude-and-longitude-using-python/              
-National Centers for Environmental Information (NCEI. Climate Data Online (CDO) - The National Climatic Data Center’s (NCDC) Climate Data Online (CDO) provides free access to NCDC’s archive of historical weather and climate data in addition to station history information. | National Climatic Data Center (NCDC). Noaa.gov. Published 2019. https://www.ncdc.noaa.gov/cdo-web/         
-Olsen S. Zillow Home Value Index Methodology, 2023 Revision: What’s Changed? Zillow. Published February 11, 2023. https://www.zillow.com/research/methodology-neural-zhvi-32128/       
-Training, Tuning, and Test Datasets. onepager.togaware.com. Accessed July 6, 2023. https://onepager.togaware.com/Training_Tuning_Test_Datase.html            
-ZHVI User Guide. Zillow Research. https://www.zillow.com/research/zhvi-user-guide/        
-Zillow. Housing Data - Zillow Research. Zillow Research. Published 2011. https://www.zillow.com/research/data/         
-
-## Repo Structure and Reproduction Instructions
+## Repo Structure
 
 ### Structure 
 |-- data <- Folder containing datasets used in analysis, images, and documentation     
@@ -154,33 +140,6 @@ Zillow. Housing Data - Zillow Research. Zillow Research. Published 2011. https:/
 |-- README.md <- The top-level README for reviewers of this project            
 └ - environment.yml <- Environment used in this project       
 
-### Reproduction 
-All data used in this project is available in the data folder. The data can be processed using the notebooks in numerical order. The environment used is available as a .yml file. 
-
-#### Downloading the Data
-###### NOAA 
-If you would like to download the data from the original source please visit the [Climate Data Online Search](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND). And set the boxes as follows: 
-- Select Weather Observation Type/Dataset: Daily Summaries       
-- Select Date Range: Use the date of the hurricane you would like to look at (i. e. Ian 9/28/2022 to 9/29/2022)       
-- Search For: States       
-- Enter a Search Term: Florida      
-Then add the dataset to cart and checkout. Download as CSV and adjust dates. Unders Station Detail check Geographic Location and Select Datatypes of AWND and WSF2. Then submit the order and receive it to your email. 
-###### Zillow 
-If you would like to download the data from the original source please visit [Zillow’s Housing Data](https://www.zillow.com/research/data/). Under the Home Values section can be downloaded the three datasets used for this project, please assure to select city: 
-- ZHVI All Homes- Top Tier Times Series ($)     
-- ZHVI All Homes - Bottom Tier Times Series ($)      
-- ZHVI All Homes (SFR, condo, Co-op) - Times Series, Smoothed, Seasonally Adjusted ($)        
-
-## Libraries 
-**Pandas**: Python Data Analysis Library     
-**NumPy**: For working with arrays       
-**Matplotlib**: For visualization      
-**Seaborn**: For visualization             
-**SHAP**: Used to explain output of machine learning models                  
-**Scikit Learn**: For machine learning                
-**Scipy**: For scientific and mathematical problems                 
-**XGBoost**: Optimized distributed gradient boosting library              
-**Geopy**: Used for locating addresses from coordinates                
 
 ## Contact Me 
 Thank you for checking out my GitHub if you have any further questions please contact me at samgrasland@gmail.com! 
