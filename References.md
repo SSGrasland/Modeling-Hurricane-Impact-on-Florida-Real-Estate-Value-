@@ -8,7 +8,8 @@ Hurricanes. coast.noaa.gov. https://coast.noaa.gov/hurricanes/
 Kumar A. Accuracy, Precision, Recall & F1-Score - Python Examples. Data Analytics. Published October 1, 2021. https://vitalflux.com/accuracy-precision-recall-f1-score-python-example/        
 kumar_satyam. Get the city, state, and country names from latitude and longitude using Python. GeeksforGeeks. Published October 15, 2020. https://www.geeksforgeeks.org/get-the-city-state-and-country-names-from-latitude-and-longitude-using-python/              
 National Centers for Environmental Information (NCEI. Climate Data Online (CDO) - The National Climatic Data Center’s (NCDC) Climate Data Online (CDO) provides free access to NCDC’s archive of historical weather and climate data in addition to station history information. | National Climatic Data Center (NCDC). Noaa.gov. Published 2019. https://www.ncdc.noaa.gov/cdo-web/         
-Olsen S. Zillow Home Value Index Methodology, 2023 Revision: What’s Changed? Zillow. Published February 11, 2023. https://www.zillow.com/research/methodology-neural-zhvi-32128/       
+Olsen S. Zillow Home Value Index Methodology, 2023 Revision: What’s Changed? Zillow. Published February 11, 2023. https://www.zillow.com/research/methodology-neural-zhvi-32128/  
+Shah R. How to Download Kaggle Datasets using Jupyter Notebook. Analytics Vidhya. Published April 30, 2021. https://www.analyticsvidhya.com/blog/2021/04/how-to-download-kaggle-datasets-using-jupyter-notebook/             
 Training, Tuning, and Test Datasets. onepager.togaware.com. Accessed July 6, 2023. https://onepager.togaware.com/Training_Tuning_Test_Datase.html            
 ZHVI User Guide. Zillow Research. https://www.zillow.com/research/zhvi-user-guide/        
 Zillow. Housing Data - Zillow Research. Zillow Research. Published 2011. https://www.zillow.com/research/data/ 
