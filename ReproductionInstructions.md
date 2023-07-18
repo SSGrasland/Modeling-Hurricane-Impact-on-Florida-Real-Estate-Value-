@@ -1,5 +1,9 @@
 # Reproduction Instructions 
-All data used in this project is available in the data folder. The data can be processed using the notebooks in numerical order. The environment used is available as a .yml file. 
+## Running Presentation Notebook
+The presentation notebook which shows the data engineering, visualization, modeling, and recommendations for this notebook is best run in [Google Colab](https://colab.research.google.com/). I recommend opening the notebook in google colab by linking from [GitHub](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/notebooks/0.PresentationNotebook.ipynb). Data can be automatically downloaded directly from [Kaggle](https://www.kaggle.com/datasets/sgrasland/hurricane-impact-on-florida-real-estate) into the notebook using a [Kaggle API Key](https://www.kaggle.com/settings/account)
+
+## Running Other Notebooks 
+All data used in this project is available in the data folder. The data can be processed using the notebooks in numerical order. The environment used is available as a .yml file found in the root directory. 
 
 ## Downloading the Data
 ###### NOAA 
@@ -24,7 +28,9 @@ If you would like to download the data from the original source please visit [Zi
 **Scikit Learn**: For machine learning                
 **Scipy**: For scientific and mathematical problems                 
 **XGBoost**: Optimized distributed gradient boosting library              
-**Geopy**: Used for locating addresses from coordinates                
+**Geopy**: Used for locating addresses from coordinates   
+**CV2**: Used for opening images in google colb
+**Opendatasets**: Used for opening datasets from kaggle              
 
 
 

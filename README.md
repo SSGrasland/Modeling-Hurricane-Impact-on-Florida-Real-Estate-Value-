@@ -131,13 +131,8 @@ I also recommend looking at a different region which is impacted by hurricanes, 
 ### Structure 
 |-- data <- Folder containing datasets used in analysis, images, and documentation     
 |--  presentation and notebook pdf <- Folder containing presentation and notebooks pdf              
-|-- .gitignore <- File that ignores files  
-|-- 0.PresentationNotebook.ipynb <-Narrative documentation of analysis in Jupyter notebook 
-|-- 1.HousingData.ipynb <- Narrative documentation of analysis in Jupyter notebook     
-|-- 2.HurricaneData.ipynb <- Narrative documentation of analysis in Jupyter notebook             
-|-- 3.JoiningDatasets.ipynb <- Narrative documentation of analysis in Jupyter notebook         
-|-- 4.Modeling.ipynb <- Narrative documentation of analysis in Jupyter notebook         
-|-- 5.WindSpeedAnalysisandModelTuning.ipynb <- Narrative documentation of analysis in Jupyter notebook              
+|-- notebooks <- Folders containing notebooks, including a presentation notebook which offers a summary of the project runable in google colab   
+|-- .gitignore <- File that ignores files              
 |-- README.md <- The top-level README for reviewers of this project      
 |-- References.txt <- List of works cited      
 |-- ReproductionInstructions.txt <- How to reproduce this project        
