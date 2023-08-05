@@ -140,7 +140,7 @@ I also recommend looking at a different region which is impacted by hurricanes, 
 
 
 ## Contact Me 
-Thank you for checking out my GitHub if you have any further questions please contact me at samgrasland@gmail.com! 
+Thank you for checking out my GitHub if you have any further questions please contact me at samgrasland@gmail.com! And you here is the associated [presentation](https://github.com/SSGrasland/Modeling-Hurricane-Impact-on-Florida-Real-Estate-Value-/blob/main/presentation_and_notebook_pdf/Presentation.pdf) for the project. 
 
 
 
